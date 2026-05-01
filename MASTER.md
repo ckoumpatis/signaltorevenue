@@ -284,3 +284,23 @@ chris@signaltorevenue.com
 5. Never mention upsell before audit is delivered
 6. Never put upsell pricing on the website
 7. One offer only — do not present all three tiers at once
+
+---
+
+## EMAIL SIGNATURE (LOCKED)
+```
+--
+Christos Koumpatis
+SignalToRevenue
+Find the leak. Recover the revenue.
+chris@signaltorevenue.com | signaltorevenue.com
+```
+
+## SUBJECT LINE FORMAT (LOCKED)
+"Found something on [Business Name]"
+
+Examples:
+- Found something on Mint Wellness Center
+- Found something on Caviar Med Spa
+- Found something on Spa Reveil
+- Found something on Austin Med Spa
