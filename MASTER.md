@@ -221,3 +221,66 @@ chris@signaltorevenue.com
 7. No guarantees of income increase — sell the diagnosis, not the outcome
 8. Every prospect logged before contact — no double sending
 9. $2,000 upsell — never mention until audit delivered and trust established
+
+---
+
+## THREE-TIER SERVICE MODEL
+
+| Tier | Product | Price | Your Time | When to Offer |
+|---|---|---|---|---|
+| 1 | Revenue Leak Audit | $79 | 60 min | Cold outreach — always |
+| 2 | Landing Page Refresh | $500–800 | 2–3 hrs | After audit — client has weak/broken site |
+| 3 | Full Digital Presence Setup | $2,000 | 5 days | After audit — client has no web presence |
+
+---
+
+### TIER 2 — Landing Page Refresh ($500–800)
+
+**Who it is for:** Med spas that already have a website but it is slow, not mobile-optimised, unclear booking path, or outdated. The majority of audit clients will fall here.
+
+**What you deliver:**
+- Take their existing content, photos, and Google data
+- Restyle into a clean single-page site using the SignalToRevenue HTML template
+- Mobile-optimised, fast-loading, booking path connected
+- Handed over complete and working within 48 hours
+
+**Why it works:**
+- Content already exists — no copywriting needed
+- Template already built — SignalToRevenue HTML is the base
+- 2-3 hours of actual work at $500-800 is excellent hourly value
+- Client sees immediate tangible result from the audit investment
+
+**How to pitch (after audit delivered):**
+"Your audit shows your current site is losing visitors before they book. I can build you a clean, fast landing page using your existing content — optimised for bookings, mobile-ready, live within 48 hours. $600 once, handed over completely."
+
+**Pricing guidance:**
+- $500 — minimal content, straightforward layout
+- $650 — standard build with photo integration
+- $800 — multiple sections, custom colour treatment
+
+---
+
+### TIER 3 — Full Digital Presence Setup ($2,000)
+
+**Who it is for:** Med spas with no website, no Google Business Profile, or completely broken digital presence. Less common but highest value.
+
+**What you deliver:**
+- Google Business Profile created and fully optimised
+- One-page professional website live
+- Booking path connected
+- Review response strategy documented
+- Delivered in 5 working days
+
+**How to pitch (after audit delivered):**
+"One of the findings from your audit is that you have no standalone digital presence — meaning prospective clients who find your name cannot verify you exist before booking. I can build and hand over a complete setup for $2,000 once. Want me to walk you through what that includes?"
+
+---
+
+### UPSELL SEQUENCE (NEVER DEVIATE)
+1. Audit delivered → client reads report
+2. Wait 24 hours
+3. Send follow-up referencing ONE specific finding from their report
+4. Offer the appropriate tier based on their situation
+5. Never mention upsell before audit is delivered
+6. Never put upsell pricing on the website
+7. One offer only — do not present all three tiers at once
