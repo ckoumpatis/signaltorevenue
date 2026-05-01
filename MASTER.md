@@ -304,3 +304,62 @@ Examples:
 - Found something on Caviar Med Spa
 - Found something on Spa Reveil
 - Found something on Austin Med Spa
+
+---
+
+## AUDIT DELIVERABLE PROTOCOL (LOCKED)
+
+### What the landing page promises:
+"A complete audit of your digital presence. Every gap documented. Every signal explained."
+
+No mention of fixes. No mention of recommendations. Clean expectation.
+
+### What the client actually receives — the Revenue Intelligence Brief:
+Every finding gets THREE columns:
+
+1. **What we found** — specific, named, documented with screenshot
+2. **Why it matters** — revenue impact figure attached (use stat library)
+3. **What to do about it** — one specific, actionable fix. Not a strategy. A task.
+
+Example format:
+- Found: Unanswered 2-star review from March mentioning "waited 20 minutes past appointment time"
+- Impact: Unanswered complaints reduce conversion by 12% on average — BrightLocal
+- Fix: Reply within 24 hours: "Thank you for sharing your experience. We take punctuality seriously and this is not our standard. We would welcome the opportunity to make this right — please contact us directly at [email]."
+
+### Why this structure is never revealed before purchase:
+- Expectation: findings + revenue signals
+- Reality: findings + revenue signals + specific corrective action per finding
+- The gap between expectation and delivery = word of mouth, referrals, upsell conversations
+- Under-promise, over-deliver. Every time. No exceptions.
+
+### The rule:
+Promise the diagnosis. Deliver the diagnosis plus the prescription.
+The prescription is the ace — played after money changes hands, never before.
+
+### What this generates:
+- Genuine surprise at delivery
+- Higher perceived value than price paid
+- Natural opening for Tier 2 and Tier 3 upsell conversations
+- Closes the "what do I do now?" objection before it is asked
+- Word of mouth and referrals from delighted clients
+
+### Landing page language stays as is:
+"A complete audit of your digital presence. Every gap documented. Every signal explained."
+DO NOT add "we tell you how to fix it" or any reference to recommendations on the public page.
+
+---
+
+## OBJECTION HANDLING — BOOKING BUTTON
+
+Common objection: "We prefer phone calls — we convert better live."
+
+Correct response:
+"The question is not phone vs online booking. It is whether prospective clients are getting to the phone call. A client who finds you on Google at 11pm on a Sunday, sees no booking path, and moves on — never calls. The booking button is not a replacement for the phone. It is a capture mechanism for the traffic you are already generating that currently disappears."
+
+If they still push back on the booking button — pivot to whichever of the three signals they cannot rationalise away. Unanswered reviews and invisible Google profile gaps are harder to defend as intentional.
+
+---
+
+## AUDIT REPORT NAMING CONVENTION
+Call it: **Revenue Intelligence Brief** — not "audit report", not "findings document"
+This language is consistent with the diagnostic practice positioning on the site.
