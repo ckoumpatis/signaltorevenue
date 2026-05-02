@@ -363,3 +363,73 @@ If they still push back on the booking button — pivot to whichever of the thre
 ## AUDIT REPORT NAMING CONVENTION
 Call it: **Revenue Intelligence Brief** — not "audit report", not "findings document"
 This language is consistent with the diagnostic practice positioning on the site.
+
+---
+
+## TWO-TRACK PROSPECT MODEL
+
+### How to identify track on Google Maps / Apollo:
+- **Website listed → Track A**
+- **No website listed → Track B**
+
+Add field "Track" (A or B) to prospect_tracker.csv for every new prospect.
+
+---
+
+### TRACK A — Has a site, has signal problems
+*(majority of prospects)*
+
+Businesses that exist online but leak revenue through broken or missing signals.
+
+**Outreach flow:**
+1. Cold email — one named signal, mention 2 more found
+2. No reply → Day 3 follow-up with competitive displacement angle
+3. Reply → Loom showing all three signals
+4. Payment $79 → Revenue Intelligence Brief delivered
+
+**Correct upsells for Track A (NEVER offer landing page — they have a professional site):**
+- Implementation support: $150–250 flat — you fix the specific signals found (update GBP, respond to reviews, connect booking button). One hour of work.
+- Monthly monitoring retainer: $99–149/month — check signals monthly, flag new issues, track competitor movement. Recurring revenue.
+
+**NEVER propose replacing their existing website.** They have a professional multi-page site. Proposing a one-page landing page would compare you to their existing web developer and destroy credibility.
+
+---
+
+### TRACK B — No site, no online presence
+*(smaller segment, higher ticket)*
+
+Businesses on Google Maps with reviews and phone but no website. Findable but not credible or convertible.
+
+**Outreach flow:**
+1. Find on Google Maps — filter for no website listed
+2. Build speculative one-page site in 45 minutes using SignalToRevenue HTML template
+3. Cold outreach IS the Loom — show them their built site as a preview
+4. Payment → they receive site files, site goes live
+
+**Critical:** Never publish the speculative site at a real URL before payment. Show via Loom only — password-protected preview or localhost file.
+
+**Products:**
+- Site handover: $600–800 (the speculative build is the product)
+- Monthly monitoring retainer: $99–149/month (upsell after handover)
+
+---
+
+### CORRECTED TIER MODEL
+
+| Track | Product | Price | Upsell |
+|---|---|---|---|
+| A | Revenue Intelligence Brief | $79 | Implementation $150–250 OR Monitoring $99–149/mo |
+| B | Speculative site build + Loom | $600–800 | Monitoring $99–149/mo |
+
+**Removed from model:** Landing page refresh for Track A — incorrect, never offer this to businesses that already have a professional website.
+
+---
+
+### COMPETITIVE DISPLACEMENT SIGNAL (Day 3 follow-up for Track A)
+Subject: Re: Found something on [Business Name]
+
+Instead of a generic follow-up, lead with competitive displacement:
+
+"I ran the same search your next client would run — 'med spa [City]' — and documented where [Business Name] appeared versus the top result. The gap is specific and fixable. Happy to share what I found."
+
+This is significantly more powerful than repeating the original signal. It shows money going to a named competitor right now.
