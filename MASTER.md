@@ -433,3 +433,63 @@ Instead of a generic follow-up, lead with competitive displacement:
 "I ran the same search your next client would run — 'med spa [City]' — and documented where [Business Name] appeared versus the top result. The gap is specific and fixable. Happy to share what I found."
 
 This is significantly more powerful than repeating the original signal. It shows money going to a named competitor right now.
+
+---
+
+## MONTHLY MONITORING RETAINER — DELIVERY PROTOCOL
+
+**Price:** $149/month (first month $199 — includes baseline setup)
+**Time per client per month:** 20-30 minutes
+**At 10 clients:** 4 hours/month = $1,490 MRR = $372/hour effective rate
+
+### Five Monthly Checks (same every client, every month):
+
+1. **Google Business Profile audit**
+   - New reviews since last month — any unanswered?
+   - Hours, photos, booking button — any changes or gaps?
+   - Q&A section — any unanswered questions?
+
+2. **Competitive position check**
+   - Search their category + city on Google Maps
+   - Document their position vs last month
+   - Note any competitor changes (new reviews, new photos, new booking path)
+
+3. **Website booking path (mobile)**
+   - Navigate full booking flow on mobile
+   - Count clicks to completed booking
+   - Note any errors or friction points
+
+4. **Response time test**
+   - Submit inquiry via contact form or Instagram DM
+   - Measure hours to response
+   - Flag if over 2 hours
+
+5. **Review sentiment scan**
+   - Check last 30 days of new reviews
+   - Flag any negative reviews needing response
+   - Draft response language if needed
+
+### Monthly Report Format — "Revenue Signal Update":
+One page. Five sections. Changes highlighted. One recommended priority action.
+Delivered as PDF within first 5 days of each month.
+
+### First Month ($199) includes:
+- Full baseline audit (same as Revenue Intelligence Brief)
+- Month 1 monitoring report
+- Competitor benchmark established for future comparison
+
+### Subsequent months ($149) include:
+- Monthly signal check against baseline
+- Changes documented
+- One priority recommendation
+- Available for one follow-up question via email
+
+### How to pitch the retainer (after audit delivered):
+"The brief shows where you are today. The question is whether these gaps stay closed and whether new ones appear — especially as competitors adjust their presence. For $149/month I run the same five checks every month, flag anything that changes, and send you a one-page update within the first week. Most clients find it easier than doing it themselves and more reliable than hoping nothing slips."
+
+### When NOT to offer the retainer:
+- Client seemed price-sensitive during audit purchase
+- Client did not engage with the brief findings
+- Client said they would handle fixes themselves — wait 60 days, then follow up
+
+---
