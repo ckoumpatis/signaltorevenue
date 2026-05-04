@@ -493,3 +493,168 @@ Delivered as PDF within first 5 days of each month.
 - Client said they would handle fixes themselves — wait 60 days, then follow up
 
 ---
+
+---
+
+## FIVE-NICHE EXPANSION PLAN
+
+### Target niches in order of entry:
+
+| Week | Niche | US Businesses | Avg Value | Primary Signal |
+|---|---|---|---|---|
+| Now | Med Spas | ~12,000 | $200 | Missing booking button + unanswered reviews |
+| Week 6 | Dental Clinics | ~200,000 | $300 | No reviews + slow inquiry response |
+| Week 8 | Law Firms (solo/small) | ~180,000 | $500+ | No Google presence + zero reviews |
+| Week 10 | Restaurants (upscale) | ~80,000 | $100/visit | Outdated photos + unanswered complaints |
+| Week 12 | Personal Trainers/Gyms | ~100,000 | $150/mo | Weak social proof + no booking |
+
+### Volume ramp per niche:
+- Week 1-2: 5-10/day (manual warmup)
+- Week 3: 20-30/day
+- Week 4: 50/day
+- Week 5+: 100/day
+
+### At full operation (Week 12 — end July 2026):
+- 5 niches × 100 emails/day = 500 emails/day
+- 5% reply rate = 25 replies/day
+- 30% positive = 7-8 interested/day
+- 20% close = 1-2 sales/day
+- $79 average = $2,370-4,740/month audits alone
+- Plus upsells and retainers: $5,000-15,000/month realistic target
+
+### Infrastructure required (sufficient tools):
+
+| Tool | Purpose | Cost/month |
+|---|---|---|
+| Instantly or Smartlead | Sending + warmup + rotation | $37-97 |
+| 3-5 additional domains | 1 per niche minimum | ~$4/mo total |
+| Apollo.io | Prospect list + email verification | $49 |
+| Hunter.io or Findymail | Verification backup | $34-49 |
+| Python research agent | Google Maps scraping | Free |
+| Claude API | Email generation in Christos voice | ~$20 |
+| GitHub | Tracker + ops | Free |
+| Loom | Video walkthroughs | $12.50 |
+| **Total** | | **~$200-250/month** |
+
+### Niche-specific signal libraries (build as you enter each):
+
+**Dental Clinics:**
+- No response to new patient inquiry within 2 hours
+- Zero or near-zero Google reviews despite years of operation
+- No online booking — phone only
+- Unanswered 1-star reviews about wait times
+
+**Law Firms:**
+- No Google Business Profile at all
+- Fewer than 10 reviews — clients research lawyers more than any service
+- Website with no clear CTA or contact path
+- No response to contact form submission
+
+**Restaurants:**
+- Food photos more than 12 months old
+- Unanswered negative reviews about service or food quality
+- Menu not updated on Google listing
+- Hours discrepancy across platforms
+
+**Personal Trainers/Gyms:**
+- No booking button — phone/email only
+- Social proof absent — no before/after, no testimonials
+- Google listing incomplete — no photos, no services listed
+- No response to Instagram DMs within 24 hours
+
+### Competitive moats to build:
+1. Case study flywheel — first 5 clients per niche become proof for next 500 emails
+2. LinkedIn parallel layer — same prospects, multi-channel, 2-3x conversion
+3. Niche-specific signal library — harder-hitting because more endemic to their pain
+4. Voice-trained AI agent — emails that sound exactly like Christos, not like ChatGPT
+
+### Build sequence:
+- Now: Python research agent (today's session)
+- Week 2: Signal detection automation
+- Week 3: Email generation with voice training
+- Week 4: Instantly integration + sending automation
+- Week 6: First niche expansion (dental)
+- Week 12: Full 5-niche autonomous operation
+
+---
+
+## PRICING VISIBILITY RULES (LOCKED)
+
+### What is public on signaltorevenue.com:
+- $79 Revenue Intelligence Brief — VISIBLE
+- Tagline and positioning — VISIBLE
+- Six leak types — VISIBLE
+- How it works (3 steps) — VISIBLE
+
+### What is NEVER on the site:
+- Implementation support ($150-250) — HIDDEN
+- Monthly monitoring retainer ($99-149/mo) — HIDDEN
+- Landing page refresh for Track B ($500-800) — HIDDEN
+- Full digital presence setup ($2,000) — HIDDEN
+
+### Why:
+- Site must position as diagnostic intelligence practice, not agency
+- Upsells require trust established through audit delivery first
+- Showing all tiers on site turns you into a menu — kills premium positioning
+- Price on site ($79) is a conversion tool — low enough to be an impulse decision
+- Higher tiers are relationship products — sold in conversation, never on a page
+
+---
+
+## THE D1 EMAIL — STRATEGIC PHILOSOPHY
+
+### On not putting price in the D1 email:
+Correct. The D1 email has one job: get a reply. Not sell the audit. Not explain the service. Not send them to the site. Get a reply. Price in the email introduces a purchase decision before trust is established. The site handles price if they visit it. The email handles curiosity only.
+
+### The hidden tiers stay hidden in all outreach:
+D1, D4, D8 — none of them mention implementation, monitoring, or site builds. Those conversations happen after the audit is delivered and the client is already impressed. The sequence is: curiosity → reply → Loom → $79 purchase → delivered brief → upsell conversation. Nothing jumps steps.
+
+### What the best advertiser in the world puts in the D1 email:
+See EMAIL EXCELLENCE section below.
+
+---
+
+## EMAIL EXCELLENCE — THE DIAMOND
+
+### What the world's best direct response writers know:
+
+The best cold email ever written does not sell. It creates an irresistible information gap.
+
+The human brain cannot tolerate an open loop. When you tell someone "I found something specific about your business and I am not going to tell you what it is yet" — they cannot not reply. The curiosity is involuntary.
+
+The mistake most cold emailers make: they fill the gap. They tell you what they found, why it matters, what you should do about it, and how much it costs to work with them. By the end of the email the reader knows everything and feels nothing.
+
+The correct approach: open the loop, name one thing, stop.
+
+### The diamond you are looking for:
+
+It is not a Loom. It is not a free audit. It is not a clever subject line.
+
+It is specificity so precise that the reader thinks "this person has been looking at MY business specifically."
+
+The moment they think that, they are already halfway to a reply. Because nobody cold emails with real, specific, named findings. Everyone sends templates. The moment your email reads like it was written about them and only them — it becomes impossible to ignore.
+
+### What separates your emails from every other cold email they receive:
+
+Every other email they get says some version of:
+"Hi, I help med spas grow their online presence. Would you be open to a quick call?"
+
+Yours says:
+"I ran a diagnostic on [their specific business]. I found that [this specific named thing] is happening on their specific listing. I found two more things. I am not telling you what they are yet."
+
+That is not a sales email. That is a personalised intelligence dispatch. And nobody sends those.
+
+### The one enhancement that would make it a diamond:
+
+A preview. Not a Loom — a screenshot.
+
+Before sending the email, take a 10-second screenshot of their Google listing showing the specific gap. Attach it to the email with one line: "This is what a prospective client sees when they search for you on Google."
+
+No explanation. No pitch. Just the evidence.
+
+The image makes it undeniable. They can see it themselves. You have not told them there is a problem — you have shown them. That is the difference between a claim and proof.
+
+Cost to implement: 60 seconds per email. Impact: significant open-to-reply conversion increase.
+
+### Decision point:
+Do we add the screenshot to D1 emails going forward? It requires one extra step per prospect but the conversion impact justifies it. Add to MASTER.md as locked protocol if yes.
